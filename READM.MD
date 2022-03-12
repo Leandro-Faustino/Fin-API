@@ -26,3 +26,7 @@
 > id - uuid
 > statement [] 
 
+### Teste com Insomnia
+> Para testar a Api, basta clicar no botão abaixo e será direcionado para um ambiente de teste do Insomnia.
+
+[![Run in Insomnia}](https://insomnia.rest/images/run.svg)](https://insomnia.rest/run/?label=Fin-Api&uri=https%3A%2F%2Fraw.githubusercontent.com%2FLeandro-Faustino%2FFin-API%2Fmaster%2FInsomnia.json)
